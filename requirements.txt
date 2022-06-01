@@ -1,0 +1,7 @@
+torch==1.10.2
+torchvision==0.11.3
+sqlitedict==1.7.0
+scipy==1.7.3
+git+https://github.com/Lyken17/pytorch-OpCounter.git@d1920d3400a62678ab3c2cf21ba13db35921713c
+#if cvxpy installation fails, conda install -c conda-forge cvxpy, export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:$HOME/miniconda3/lib
+git+https://github.com/lucaslie/torchprune/#subdirectory=src/torchprune
