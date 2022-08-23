@@ -1,5 +1,7 @@
 # SVD-NAS
 
+official implementation of the WACV 2023 paper [SVD-NAS:Coupling Low-Rank Approximation and Neural Architecture Search](https://arxiv.org/abs/2208.10404) 
+
 ## Before starting
 ```
 pip install -r requirement.text
